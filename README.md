@@ -1,4 +1,4 @@
-# Passcode
+# <img src="logo.jpg" alt="Passcode Logo" width="36" height="36"> Passcode
 
 Passcode is a project designed to make sharing code snippets and full files seamless directly inside VS Code without having to switch apps or copy-paste across external chat tools.
 
