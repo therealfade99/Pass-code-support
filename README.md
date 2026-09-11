@@ -1,6 +1,6 @@
 # Passcode
 
-Passcode is a project designed to make sharing code snippets and full files seamless—directly inside VS Code without having to switch apps or copy-paste across external chat tools.
+Passcode is a project designed to make sharing code snippets and full files seamless directly inside VS Code without having to switch apps or copy-paste across external chat tools.
 
 > **Project Note:** Passcode is currently a non-profit project built by a junior developer aiming to solve real workflow friction for engineers and students alike. The ultimate goal is to scale Passcode into a full company that makes developer collaboration easier and faster.
 
@@ -13,7 +13,7 @@ Whether you want to contribute or join as an early core team member as we transi
 ### Open Positions & Roles:
 
 #### 1. App / Extension Developer
-* **Role:** Developer experienced with VS Code Extension API, JavaScript/TypeScript, or backend services. You must know how to code—we are keeping this product human-written without AI.
+* **Role:** Developer experienced with VS Code Extension API, JavaScript/TypeScript, or backend services. You must know how to code we are keeping this product human-written without AI.
 * **Goal:** Help build and refine the extension to enable real-time file and snippet delivery directly inside the editor.
 
 #### 2. Graphic Artist & UI/UX Designer
@@ -54,7 +54,7 @@ Have a feature request, bug report, or idea to make Passcode better? We want to 
 1. Install the Passcode extension in VS Code.
 2. Highlight a snippet or select a file in your project explorer.
 3. Right-click and choose **"SendPasscode"**.
-4. Enter the recipient's username—they will receive an instant prompt inside VS Code to view, accept, or decline the code.
+4. Enter the recipient's username they will receive an instant prompt inside VS Code to view, accept, or decline the code.
 
 > **Note:** The recipient must also have the Passcode extension installed for the transfer to work.
 
